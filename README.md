@@ -1,4 +1,4 @@
-Restaurant
+Sweet Keychain
 ==========
 
-A template for Restaurant business
+A template for Keychains
